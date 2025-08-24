@@ -45,7 +45,7 @@ Collaboration • Problem Solving • Communication • Adaptability
 ---
 
 ## 📂 Featured Projects  
-🔹 **AI-Powered ATS Clone** – Resume analyzer + tracking system with resume parsing, job matching, and AI feedback [Repo Link](https://github.com/kashali26)  
+🔹 **AI-Powered ATS Clone** – Resume analyzer + tracking system with resume parsing, job matching, and AI feedback [Repo Link](https://github.com/kashali26/AI-Powered-ATS-Clone)  
 🔹 **Dealer Insights Web App** – Django + React platform for analytics, deployed on Kubernetes + IBM Cloud with CI/CD pipelines  
 🔹 **Sentiment Analysis NLP App** – IBM Watson AI on IBM Cloud for real-time customer sentiment scoring  
 🔹 **Course Scheduling Web App** – Academic course management system with PostgreSQL + dynamic forms  
