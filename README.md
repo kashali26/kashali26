@@ -1,24 +1,28 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Kashan%20Ali&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20AI%20%26%20Full-Stack%20Developer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Kashan%20Ali&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20AI%20Full-Stack%20Developer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
 
-  <!-- Typing SVG -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Applications;Exploring+Cloud+and+DevOps+Technologies;Developing+AI-Powered+Tools;Passionate+about+Scalable+Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+Full-Stack+Web+Applications;Exploring+Cloud+%26+DevOps+Technologies;Developing+AI-Powered+Tools;Passionate+about+Scalable+Systems" alt="Expertise" />
   </p>
 
-  <!-- Socials -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashantali/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashali26?tab=repositories)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashali2025@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashali26)
+  [![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashali2025@gmail.com)
 
 </div>
 
-<!-- Dino GIF Centered -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" width="400"/>
-</div>
+## 💻 Aspiring Full-Stack Software Engineer  
+
+I’m passionate about building **modern, scalable web applications** and learning best practices across the stack. My focus areas include:  
+
+- 🌐 **Frontend** – React, JavaScript, HTML, CSS, responsive design  
+- 🖥️ **Backend & APIs** – Django, Flask, Express, RESTful APIs  
+- 🗄️ **Databases** – PostgreSQL, MongoDB, MySQL  
+- ☁️ **Cloud & DevOps** – AWS, Docker, Kubernetes, CI/CD pipelines  
+- 🤖 **AI/ML Integration** – TensorFlow, PyTorch, Hugging Face (bonus for intelligent features)  
+
+Currently building **full-stack applications** with a focus on **scalable, maintainable, and production-ready systems**.  
 
 
 ---
