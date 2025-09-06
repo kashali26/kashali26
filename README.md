@@ -1,64 +1,163 @@
-# Hi there, I'm Kashan Ali 👋  
+<div align="center">
 
-📍 Chicago, IL | 💻 Software Engineer  
+  <!-- Header Banner -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=200&section=header&text=Kashan%20Ali&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20AI%20%26%20Full-Stack%20Developer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashantali/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashali26?tab=repositories) 
-[![Email](https://img.shields.io/badge/Email-kashali2025%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashali2025@gmail.com)  
+  <!-- Typing SVG -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Applications;Exploring+Cloud+and+DevOps+Technologies;Developing+AI-Powered+Tools;Passionate+about+Scalable+Systems" alt="Typing Animation" />
+  </p>
+
+  <!-- Socials -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashantali/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashali26?tab=repositories)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashali2025@gmail.com)
+
+</div>
+
+<!-- Dino GIF Centered -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" width="400"/>
+</div>
+
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently building **AI-powered ATS resume analyzers** and **cloud-native full-stack apps**  
-- 🌱 Expanding into **Cloud (AWS, Kubernetes, Docker)** and **Explainable AI (Grad-CAM, Hugging Face, Model Interpretability)**  
-- 👯 Open to collaborating on **open-source projects in AI, full-stack web, or cloud-native systems**  
-- ⚡ Fun fact: Built a full e-commerce platform from scratch that scaled to **500+ orders in under 12 months**!  
+## 💻 About Me  
+
+- 🔭 Currently working on **AI-powered resume analyzers** and **cloud-native full-stack apps**  
+- 🌱 Learning **AWS, Kubernetes, Docker, and DevOps workflows**  
+- 👯 Open to collaborating on **AI, full-stack web, or cloud-native systems**  
+- ⚡ Fun fact: Built a **full e-commerce platform** that scaled to 500+ orders in < 12 months!  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Core Competencies  
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+<div align="center">
 
-**Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+### 🚀 Software Development & Systems
+```mermaid
+mindmap
+  root((Software Engineering))
+    Full-Stack Development
+      React
+      Django
+      Express
+      Flask
+    Cloud & DevOps
+      AWS
+      Docker
+      Kubernetes
+      CI/CD
+    Databases
+      MySQL
+      MongoDB
+      PostgreSQL
+    AI/ML
+      TensorFlow
+      PyTorch
+      Hugging Face
+    Core CS
+      Data Structures
+      Algorithms
+      OOP
+```
 
-**Machine Learning / AI**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![fastai](https://img.shields.io/badge/fast.ai-2D2D2D?style=flat&logo=fastai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)  
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+### ⚙️ Tech Stack  
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-
-**Core Competencies**  
-Data Structures & Algorithms • OOP • REST APIs • Full Stack Development • EDA • CNNs  
-
-**Soft Skills**  
-Collaboration • Problem Solving • Communication • Adaptability  
-
-**Languages**  
-🇮🇳 Hindi • 🇵🇰 Urdu  
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **AI-Powered ATS Clone** – Resume analyzer + tracking system with resume parsing, job matching, and AI feedback [Repo Link](https://github.com/kashali26/AI-Powered-ATS-Clone)  
-🔹 **Dealer Insights Web App** – Django + React for analytics, deployed on Kubernetes + IBM Cloud with CI/CD pipelines [Repo Link](https://github.com/kashali26/Dealer_Insights_Web_App)  
-🔹 **Course Scheduling Web App** – Academic course management system with PostgreSQL + dynamic forms [Repo Link](https://github.com/kashali26/Course_Scheduling_Web_App_EZU)  
-<!--🔹 **Sentiment Analysis NLP App** – IBM Watson AI on IBM Cloud for real-time customer sentiment scoring [Repo Link](https://github.com/kashali26/Sentiment-Analysis-NLP-App)  -->
 
-👉 Explore more projects in my [GitHub Repositories](https://github.com/kashali26?tab=repositories)  
+- 🔹 **AI-Powered ATS Clone** – Resume analyzer + tracking system with AI feedback → [Repo](https://github.com/kashali26/AI-Powered-ATS-Clone)  
+- 🔹 **Dealer Insights Web App** – Django + React app with analytics, deployed on Kubernetes + IBM Cloud → [Repo](https://github.com/kashali26/Dealer_Insights_Web_App)  
+- 🔹 **Course Scheduling Web App** – PostgreSQL-backed dynamic course management system → [Repo](https://github.com/kashali26/Course_Scheduling_Web_App_EZU)  
 
-
+👉 More projects on my [GitHub](https://github.com/kashali26?tab=repositories)  
 
 ---
 
-## 📫 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashantali/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kashali26?tab=repositories) [![Email](https://img.shields.io/badge/Email-kashali2025%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kashali2025@gmail.com)  
+## 📊 GitHub Activity  
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kashali26&theme=transparent&hide_border=true&mode=weekly&fire=06B6D4&ring=3B82F6&currStreakLabel=6366F1&sideLabels=06B6D4)](https://git.io/streak-stats)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashali26&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=06B6D4&point=3B82F6&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-⭐️ *Always excited to build scalable systems, contribute to open source, and create meaningful impact through technology.*  
+<div align="center">
+
+## 🤝 Let’s Connect  
+
+I’m always excited to collaborate on:  
+- 🌐 **Full-Stack Web Apps**  
+- ☁️ **Cloud-Native Projects**  
+- 🤖 **AI/ML Tools and Systems**  
+
+💡 Let’s build impactful software together!  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=120&section=footer)
+
+</div>
