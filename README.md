@@ -29,7 +29,7 @@ Currently building **full-stack applications** with a focus on **scalable, maint
 
 ## 💻 About Me  
 
-- 🔭 Currently working on **AI-powered resume analyzers** and **cloud-native full-stack apps**  
+- 🔭 Currently working on **a Kanban style Trello Clone** and **cloud-native full-stack apps**  
 - 🌱 Learning **AWS, Kubernetes, Docker, and DevOps workflows**  
 - 👯 Open to collaborating on **AI, full-stack web, or cloud-native systems**  
 - ⚡ Fun fact: Built a **full e-commerce platform** that scaled to 500+ orders in < 12 months!  
